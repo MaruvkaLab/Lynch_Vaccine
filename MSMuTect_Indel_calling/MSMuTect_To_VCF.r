@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript --vanilla
 
-# MSMuTect_To_VCF.0.5.v9.2.r
+# MSMuTect_To_VCF.r
 # Converts MSMuTect output to VCF format with various filtering options.
 
 # Log the start of the script
