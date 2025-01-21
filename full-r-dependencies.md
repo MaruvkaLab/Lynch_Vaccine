@@ -4,6 +4,18 @@ This project requires R version 4.3.2 or higher.
 
 ## Installation
 
+You can use `renv` for dependency management:
+
+```R
+# Install renv if not already installed
+install.packages("renv")
+
+# Initialize renv and restore dependencies
+renv::init()
+renv::restore()
+```
+## Alternative Installation without renv
+
 You can install the required dependencies using the following R code:
 
 ```R
@@ -225,20 +237,6 @@ install.packages(cran_packages)
 # Install GitHub packages
 remotes::install_github("wilkelab/ggridges@a8a99820")
 ```
-
-## Alternative Installation Using renv
-
-Alternatively, you can use `renv` for dependency management:
-
-```R
-# Install renv if not already installed
-install.packages("renv")
-
-# Initialize renv and restore dependencies
-renv::init()
-renv::restore()
-```
-
 ## System Requirements
 
 - R version 4.3.2 or higher
