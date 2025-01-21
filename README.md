@@ -6,8 +6,9 @@ This repository contains the statistical analyses conducted as part of the study
 ## Folder Structure
 Each repository folder which represent statistical is structured as follows:
 
-- <Analysis Folder>: Represents a specific statistical analysis.
-  - <Analysis>.R: The R script for performing the analysis. Simply run this script to load the input data and execute the analysis.
+## Analysis Folders
+- Each folder represents a specific statistical analysis.
+  - <Analysis>.R: The R script for performing the analysis. Run this script to load the input data and execute the analysis.
   - A processed data input file for reproducibility.
 
 ## Reproducibility
@@ -18,11 +19,17 @@ To reproduce the results:
 3. The script will automatically:
    - Load the associated input data file.
    - Perform all steps of the statistical analysis described in the study.
-4. all scripts which represent an R analysis should be easily run on a standard desktop computer.
+4. all scripts that represent an R analysis should be easily run on a standard desktop computer.
 5. Tested on a Lenovo e15 with 16Gb of RAM and a 11th Gen Intel Core i7-1165G7 2.80GHz
+6. 
+## Dependencies
+- follow the instruction in the dependencies file
 
 ## Authors
 - Hagay Ladany
 - Yosef Maruvka
+
+
+
 
 For any questions or issues, please feel free to contact the authors.
