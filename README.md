@@ -8,7 +8,7 @@ Each repository folder which represent statistical is structured as follows:
 
 - <Analysis Folder>: Represents a specific statistical analysis.
   - <Analysis>.R: The R script for performing the analysis. Simply run this script to load the input data and execute the analysis.
-  - <Input_Analysis>: A processed data input file for reproducibility.
+  - A processed data input file for reproducibility.
 
 ## Reproducibility
 To reproduce the results:
