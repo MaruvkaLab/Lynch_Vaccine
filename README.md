@@ -11,6 +11,9 @@ Each repository folder which represent statistical is structured as follows:
   - <Analysis>.R: The R script for performing the analysis. Run this script to load the input data and execute the analysis.
   - A processed data input file for reproducibility.
 
+## Dependencies
+- follow the instructions in the dependencies file
+
 ## Reproducibility
 To reproduce the results:
 
@@ -21,9 +24,6 @@ To reproduce the results:
    - Perform all steps of the statistical analysis described in the study.
 4. all scripts that represent an R analysis should be easily run on a standard desktop computer.
 5. Tested on a Lenovo e15 with 16Gb of RAM and a 11th Gen Intel Core i7-1165G7 2.80GHz
-6. 
-## Dependencies
-- follow the instruction in the dependencies file
 
 ## Authors
 - Hagay Ladany
