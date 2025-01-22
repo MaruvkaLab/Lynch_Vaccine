@@ -18,7 +18,7 @@ Each repository folder which represent statistical is structured as follows:
 To reproduce the results:
 
 1. Open the desired analysis folder.
-2. Open the .R file and validate that the input path links to the desired files.
+2. Open the .R file and validate that the input paths are linked to the desired files.
 3. Run the corresponding .R script in R.
 4. The script will:
    - Load the associated input data file.
