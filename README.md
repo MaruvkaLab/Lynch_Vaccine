@@ -1,10 +1,7 @@
 # The Genomic and Immunogenetic Landscapes of DNA Mismatch Repair Deficient Colorectal Neoplasia Delineates Shared Frameshift Neoantigens for Immunoprevention
 
 ## Project Overview
-This repository contains the statistical analyses conducted as part of the study, Each folder in the repository corresponds to a specific statistical analysis performed in the study.
-
-## Folder Structure
-Each repository folder which represent statistical is structured as follows:
+This repository contains the statistical analyses conducted as part of the study. Each folder in the repository corresponds to a specific statistical analysis performed in the study.
 
 ## Analysis Folders
 - Each folder represents a specific statistical analysis.
@@ -27,10 +24,7 @@ To reproduce the results:
 6. Tested on a Lenovo e15 laptop with 16Gb of RAM and a 11th Gen Intel Core i7-1165G7 2.80GHz
 
 ## Authors
+For any questions or issues, please feel free to contact the authors.
 - Hagay Ladany
 - Yosef Maruvka
 
-
-
-
-For any questions or issues, please feel free to contact the authors.
