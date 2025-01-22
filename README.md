@@ -18,12 +18,13 @@ Each repository folder which represent statistical is structured as follows:
 To reproduce the results:
 
 1. Open the desired analysis folder.
-2. Run the corresponding .R script in R.
-3. The script will automatically:
+2. Open the .R file and validate that the input path links to the desired files.
+3. Run the corresponding .R script in R.
+4. The script will:
    - Load the associated input data file.
    - Perform all steps of the statistical analysis described in the study.
-4. all scripts that represent an R analysis should be easily run on a standard desktop computer.
-5. Tested on a Lenovo e15 with 16Gb of RAM and a 11th Gen Intel Core i7-1165G7 2.80GHz
+5. all scripts that represent an R analysis should be easily run on a standard desktop/laptop computer.
+6. Tested on a Lenovo e15 laptop with 16Gb of RAM and a 11th Gen Intel Core i7-1165G7 2.80GHz
 
 ## Authors
 - Hagay Ladany
